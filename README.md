@@ -60,7 +60,7 @@ Utilizando:
 
 ---
 
-## 🖥️ Estrutura de pastas
+## 🖥️ Estrutura de pastas ##
 /
 ├── index.html
 ├── /img
