@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Verde Ação</title>
+  </head>
+  <body>
+    <header>
+      <div class="box-header">
+        <h1>Verde Ação</h1>
+        <p>
+          Ser voluntário na Verde Ação é plantar esperança e colher
+          transformação. Juntos, cuidamos do planeta e inspiramos mudanças
+          reais!
+        </p>
+        <button>Quero ser voluntuntario</button>
+      </div>
+    </header>
+    <main>
+      <section class="cards">
+        <article class="card">
+          <img src="./img/Rectangle 3.png" alt="" />
+          <h2>Plantio de mudas</h2>
+          <p>Cada muda plantada ajuda a restaurar o meio ambiente</p>
+          <button>Ver mais</button>
+        </article>
+        <article class="card">
+          <img src="./img/download 2.png" alt="" />
+          <h2>Educação Ambiental</h2>
+          <p>Promove oficinas e rodas de conversas</p>
+          <button>Ver mais</button>
+        </article>
+        <article class="card">
+          <img src="./img/artigo-5 1.png" alt="" />
+          <h2>Cuidados</h2>
+          <p>Ajude a manter areas preservadas</p>
+          <button>Ver mais</button>
+        </article>
+        <article class="card">
+          <img src="./img/florestas 1.png" alt="" />
+          <h2>Mapeamento</h2>
+          <p>Indentifique areas que precisam de mapeamento</p>
+          <button>Ver mais</button>
+        </article>
+      </section>
+      <section class="form-cadastro">
+        <h2>Cadastre-se como voluntário</h2>
+        <p>
+          Faça parte de ações que transformam o mundo. Com pequenas atitudes,
+          você pode gerar grandes impactos na natureza e na comunidade
+        </p>
+        <form class="formulario" action="">
+          <input
+            type="text"
+            name="nome"
+            id="nome"
+            placeholder="Nome"
+            pattern="^[A-Za-zÀ-ÿ\s]{3,50}$"
+            title="o nome deve conter apenas letras, espaos e no minimo 3 caracteres."
+          />
+          <input
+            type="email"
+            name="email"
+            id="cpf"
+            pattern="^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-z]{2,}$"
+            placeholder="Email"
+            title="Digite um Email válido (ex: usuario@dominio.com)."
+          />
+          <input
+            type="text"
+            name="nome"
+            id="nome"
+            placeholder="Cidade"
+            pattern="^[A-Za-zÀ-ÿ\s]{3,50}$"
+            title="o nome deve conter apenas letras, espaos e no minimo 3 caracteres."
+          />
+          <input
+            list="lista-atividades"
+            id="atividades"
+            name="atividades"
+            placeholder="Selecione atividade"
+          />
+          <datalist id="lista-atividades">
+            <option value="Plantio de mudas"></option>
+            <option value="Educação Ambienta"></option>
+            <option value="Cuidados"></option>
+            <option value="Mapeamento"></option>
+          </datalist>
+          <button>Cadastrar</button>
+        </form>
+      </section>
+    </main>
+    <footer>© todos os direitos reservados </footer>
+  </body>
+</html>
