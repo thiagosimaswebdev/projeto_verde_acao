@@ -61,12 +61,12 @@ Utilizando:
 ---
 
 ## 🖥️ Estrutura de pastas ##
-/
-├── index.html
-├── /img
-│ ├── banner.png
-│ └── (demais imagens)
-├── /css
-│ └── style.css ← gerado automaticamente
-└── /scss
-└── style.scss ← arquivo principal de estilos ##
+#/                                            #
+#├── index.html                               #
+#├── /img
+#│ ├── banner.png
+#│ └── (demais imagens)
+#├── /css
+#│ └── style.css ← gerado automaticamente
+#└── /scss
+#└── style.scss ← arquivo principal de estilos ##
