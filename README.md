@@ -8,7 +8,7 @@ O projeto representa uma iniciativa de voluntariado ambiental, incentivando a pa
 ## 🔗 Veja o projeto no ar!
 **(coloque aqui seu link do GitHub Pages depois de publicar)**  
 Exemplo de formato:  
-https://https://thiagosimaswebdev.github.io/projeto_verde_acao/
+https://thiagosimaswebdev.github.io/projeto_verde_acao/
 
 ---
 
