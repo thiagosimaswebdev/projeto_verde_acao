@@ -8,7 +8,7 @@ O projeto representa uma iniciativa de voluntariado ambiental, incentivando a pa
 ## 🔗 Veja o projeto no ar!
 **(coloque aqui seu link do GitHub Pages depois de publicar)**  
 Exemplo de formato:  
-https://seuusuario.github.io/verde-acao/
+https://https://thiagosimaswebdev.github.io/projeto_verde_acao/
 
 ---
 
@@ -61,4 +61,12 @@ Utilizando:
 ---
 
 ## 🖥️ Estrutura de pastas
-
+/
+├── index.html
+├── /img
+│ ├── banner.png
+│ └── (demais imagens)
+├── /css
+│ └── style.css ← gerado automaticamente
+└── /scss
+└── style.scss ← arquivo principal de estilos ##
