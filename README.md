@@ -56,19 +56,8 @@ O layout foi desenvolvido seguindo práticas de **design responsivo**, adaptando
 Utilizando:
 
 - `flexbox`
-- `min-height` em vez de `height` fixa
 - `overflow-x: hidden` para evitar barras indesejadas
 
 ---
 
 ## 🖥️ Estrutura de pastas
-
-/
-├── index.html
-├── /img
-│ ├── banner.png
-│ └── (demais imagens)
-├── /css
-│ └── style.css ← gerado automaticamente
-└── /scss
-└── style.scss ← arquivo principal de estilos
