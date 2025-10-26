@@ -61,8 +61,9 @@ Utilizando:
 ---
 
 ## 🖥️ Estrutura de pastas ##
+|--------------------------------------------|
 /                                            
-├── index.html                               
+|├── index.html         |                      
 ├── /img
 │ ├── banner.png
 │ └── (demais imagens)
